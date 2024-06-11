@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi guys, my name is Clara 👋
 
 <!--
 **claratti72/claratti72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
